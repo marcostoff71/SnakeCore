@@ -1,2 +1,2 @@
 # SnakeCore
-Delegos funciones evnetos
+C# .net 6
