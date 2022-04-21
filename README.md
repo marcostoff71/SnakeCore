@@ -1,0 +1,2 @@
+# SnakeCore
+Delegos funciones evnetos
