@@ -1,0 +1,15 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\bin\Debug\net6.0\079 JoinString.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\bin\Debug\net6.0\079 JoinString.deps.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\bin\Debug\net6.0\079 JoinString.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\bin\Debug\net6.0\079 JoinString.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\bin\Debug\net6.0\079 JoinString.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\obj\Debug\net6.0\079 JoinString.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\obj\Debug\net6.0\079 JoinString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\obj\Debug\net6.0\079 JoinString.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\obj\Debug\net6.0\079 JoinString.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\obj\Debug\net6.0\079 JoinString.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\obj\Debug\net6.0\079 JoinString.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\obj\Debug\net6.0\refint\079 JoinString.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\obj\Debug\net6.0\079 JoinString.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\obj\Debug\net6.0\079 JoinString.genruntimeconfig.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\079 JoinString\079 JoinString\obj\Debug\net6.0\ref\079 JoinString.dll
